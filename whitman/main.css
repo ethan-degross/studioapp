@@ -1,0 +1,97 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background-color: black;
+    color: #C0C0C0;
+}
+
+.borderStyle {
+    border: 2px solid #8E813D;
+    height: 100%;
+    width: 100%;
+    padding: .5rem;
+}
+
+#signature {
+    margin: 4rem 0rem 3rem 0rem;
+}
+
+.btn-group-vertical {
+    margin: 4rem 0rem;
+}
+
+.btn {
+    font-family: 'Petit Formal Script', cursive;
+    background-color: #8E813D;
+    color: black;
+    border-radius: 0px;
+    line-height: 3rem;
+    font-size: 2rem;
+}
+
+.btn:focus {
+    outline:none;
+    box-shadow: none;
+}
+
+#aboutText {
+    display: none;
+}
+
+#scholarship {
+    display: none;
+}
+
+#maps {
+    display: none;
+}
+
+#facesBtn{
+    background-color: #C0C0C0;
+    color": black;
+}
+
+#faceImg {
+    margin-top: 12rem;
+    padding-right: 1rem;
+    transform: translateX(-4rem);
+    width: 700px;
+    height: 700px;
+}
+#mainBtn{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.right-side-main{
+    margin-right:100px;
+    font-size: .9rem;
+    font-family: 'Montserrat', sans-serif;
+}
+#aboutText{
+    margin-top: 10%;
+}
+#scholarship{
+    margin-top: 30%;
+}
+#maps{
+    margin-top: 10%;
+    font-size: .8rem;
+}
+#back-icon{
+	height: 100px;
+    vertical-align: top;
+    float:right;
+    position: relative;
+}
+
+.small-btn {
+    font-family: 'Petit Formal Script', cursive;
+    background-color: #8E813D;
+    color: black;
+    border-radius: 0px;
+    border:none;
+    line-height: 1.5rem;
+    font-size: 1rem;
+}
