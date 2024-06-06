@@ -17,10 +17,7 @@
   },
   "homepage": "https://github.com/meghans18/studioapp#readme",
   "devDependencies": {
-    "electron": "^4.2.9",
-	"electron-builder": "^22.14.13"
-  },
-  "dependencies": {
-    
+    "electron": "^20.0.2",
+    "electron-builder": "^5.5.0"
   }
 }
